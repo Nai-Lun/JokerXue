@@ -164,10 +164,10 @@ table {
 
 @media(max-width:414px) {
     .intro-img {
-        height: 360px;
+        height: 365px;
     }
     .intro-img img {
-        height: 360px;
+        height: 365px;
     }
 }
 
