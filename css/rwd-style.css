@@ -215,11 +215,13 @@ table {
     font-size: 18px;
     text-align: center;
     margin: 0 10%;
+    word-break: keep-all;
     }
     .intro-text p {
     margin: 0 10%;
     text-align: left;
     font-size: 18px;
+    word-break: normal;
     }
 }
 
