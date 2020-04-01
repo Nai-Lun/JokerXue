@@ -181,6 +181,48 @@ table {
     }
 }
 
+/*Phone-intro-text*/
+
+@media(max-width:1024px) {
+   .intro-text h2 {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 10%;
+    }
+    .intro-text p {
+    margin: 0 20%;
+    font-size: 18px;
+    word-break: keep-all;
+    }
+}
+
+@media(max-width:768px) {
+   .intro-text h2 {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 10%;
+    }
+    .intro-text p {
+    margin: 0 10%;
+    font-size: 18px;
+    text-align: left;
+    word-break: keep-all;
+    }
+}
+
+@media(max-width:414px) {
+   .intro-text h2 {
+    font-size: 18px;
+    text-align: center;
+    margin: 0 10%;
+    word-break: keep-all;
+    }
+    .intro-text p {
+    margin: 0 10%;
+    text-align: left;
+    font-size: 18px;
+    }
+}
 
 /*Phone-music-video-img*/
 
