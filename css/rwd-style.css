@@ -162,6 +162,15 @@ table {
     }
 }
 
+@media(max-width:414px) {
+    .intro-img {
+        height: 360px;
+    }
+    .intro-img img {
+        height: 360px;
+    }
+}
+
 
 /*Phone-menu*/
 
