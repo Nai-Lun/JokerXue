@@ -206,7 +206,7 @@ table {
     margin: 0 10%;
     font-size: 18px;
     text-align: left;
-    word-break: keep-all;
+    word-break: normal;
     }
 }
 
@@ -215,7 +215,6 @@ table {
     font-size: 18px;
     text-align: center;
     margin: 0 10%;
-    word-break: keep-all;
     }
     .intro-text p {
     margin: 0 10%;
